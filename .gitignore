@@ -43,3 +43,4 @@ Thumbs.db
 .idea/gradle.xml
 build.gradle
 gradle/wrapper/gradle-wrapper.properties
+/.idea/jarRepositories.xml
